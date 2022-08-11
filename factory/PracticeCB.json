@@ -1,0 +1,9 @@
+{
+	"name": "PracticeCB",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "224f7368-0cb3-4279-8a88-65896c1fa2ce",
+		"tenantId": "1b36cbeb-012a-4cdc-ae0c-43d356c62ad5"
+	}
+}
